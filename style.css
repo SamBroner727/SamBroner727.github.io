@@ -3,10 +3,10 @@ body {
         background-color: azure;
 }
 div {
+        width: 80%;
         border: 2px solid;
         border-radius: 5px;
         position: relative;
-        left: 15px;
 }
 h1 {
         color:Black
@@ -17,10 +17,12 @@ p.header {
         color: black;
         font-size: 14px;
 }
-p {
+p.element {
         text-align: left;
         color: black;
         font-size:  12px;
+        left: 15px;
+
 }
 ul {
         text-align: left;
