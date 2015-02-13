@@ -13,6 +13,7 @@ div {
 }
 h1 {
         color:Black
+        margin-left: 25%;
 }
 
 p.header {
@@ -24,7 +25,7 @@ p.element {
         text-align: left;
         color: black;
         font-size:  12px;
-        left: 25px;
+        margin-left: 25px;
 
 }
 ul {
