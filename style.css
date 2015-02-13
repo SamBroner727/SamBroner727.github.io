@@ -20,3 +20,8 @@ p {
         color: black;
         font-size:  12px;
 }
+ul {
+        text-align: left;
+        color: black;
+        font-size:  12px;    
+}
