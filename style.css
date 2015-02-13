@@ -2,4 +2,16 @@ body {
         font-family: Georgia, serif;
         background-color: azure;
 }
-h1 {color:DimGray}
+div {
+        border: 2px solid;
+        border-radius: 5px;
+}
+h1 {
+        color:Black
+}
+
+p.header {
+        text-align: center;
+        color: black;
+        font-size: 14px
+}
