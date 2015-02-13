@@ -13,5 +13,10 @@ h1 {
 p.header {
         text-align: center;
         color: black;
-        font-size: 14px
+        font-size: 14px;
+}
+p {
+        text-align: left;
+        color: black;
+        font-size:  12px;
 }
